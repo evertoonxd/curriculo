@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+          <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Everton de França Brito</title>
+</head>
+<body>
+    <img src="3x4.png" width="150" />
+    Everton de França Brito 
+    
+    <h2>Identificação</h2>
+    <pre>
+        Email: <a href="mailto:evertoonxd@gmail.com">evertoonxd@gmail.com</a>
+        Linkedin <a href="https://www.linkedin.com/" target="_blank">everton</a>
+    </pre>
 
-You can use the [editor on GitHub](https://github.com/evertoonxd/curriculo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <hr/>
+    <h2>Formação</h2>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <table style="width: 50%;" border="1">
+        <thead>
+            <tr>
+                <th>Curso</th>
+                <th>Ano</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ensino Médio - Quintella Cavalcante</td>
+                <td>2011</td>
+            </tr>
+            <tr>
+                <td>Gradução em Ciência da Computação - UFAL (incompleto)</td>
+                <td>2012</td>
+            </tr>
+            <tr>
+                <td>Graduação em Análises de Sistemas - UNOPAR </td>
+                <td>2020</td>
+            </tr>
+        </tbody>
+    </table>
 
-### Markdown
+    <hr/>
+    <h2>Competências</h2>
+    <ul>
+        <li><mark>Instrutor de Informatica</mark></li>
+        <li>Help <i>Desk</i></li>
+        <li><em>Analista de Sistemas</em></li>
+    </ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evertoonxd/curriculo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
