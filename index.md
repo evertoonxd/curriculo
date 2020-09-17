@@ -6,7 +6,7 @@
 </head>
 <body>
     <img src="https://i.imgur.com/GWa2XuF.png" width="150" />
-    <hr>Everton de França Brito 
+    <hr><br>Everton de França Brito 
     
     <h2>Identificação</h2>
     <pre>
